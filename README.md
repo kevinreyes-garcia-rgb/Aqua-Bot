@@ -32,7 +32,7 @@ Este proyecto es el resultado del trabajo en equipo y la pasión de:
 
 | ✨ Rol | 👤 Desarrollador |
 | :--- | :--- |
-| **Lead Dev** | [KG359](https://github.com/KG359) |
+| **Lead Dev** | [KG359](kevinreyes-garcia-rgb) |
 | **Colaboradora** | [Cuervita](https://github.com/Cuervita) |
 
 ---
