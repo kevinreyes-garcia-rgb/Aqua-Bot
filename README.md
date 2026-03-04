@@ -11,6 +11,8 @@
 
 > [!IMPORTANT]
 > **Estado del Proyecto:** 🛠️ En proceso de desarrollo (Beta). Estamos trabajando duro para añadir más funciones cada día.
+> [!IMPORTANT]
+> **Dato Inportante:** Este ChatBot tiene contenido NSFW usa el chatbot con cuidado y fuera de alcanse de menores. 
 
 ---
 
