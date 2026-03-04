@@ -1,11 +1,11 @@
-# 🌟 ¡Bienvenido a **KG-Chatbot**! 🌟
+# 🌟 ¡Bienvenido a **Aqua-Chatbot**! 🌟
 
 ¡Hola! Estás ante un proyecto único desarrollado con mucha dedicación. Este es un chatbot diseñado para ser tu mano derecha en múltiples tareas, combinando utilidad, descargas y creatividad visual en un solo lugar.
 
 ---
 
-## 🖼️ Portada del Proyecto
-![KG-Chatbot Cover](https://files.catbox.moe/fgfyei.webp)
+## Portada del Proyecto
+![Aqua-Chatbot Cover](https://files.catbox.moe/fgfyei.webp)
 
 ---
 
@@ -26,7 +26,7 @@ A diferencia de otros sistemas, este chatbot se enfoca en la ejecución directa 
 
 ---
 
-## 👥 Creadores
+## Creadores
 
 Este proyecto es el resultado del trabajo en equipo y la pasión de:
 
