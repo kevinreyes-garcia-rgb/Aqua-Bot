@@ -34,8 +34,8 @@ Este proyecto es el resultado del trabajo en equipo y la pasión de:
 
 | ✨ Rol | 👤 Desarrollador |
 | :--- | :--- |
-| **Lead Dev** | [Klee](https://github.com/kevinreyes-garcia-rgb/Aqua-Bot.git) |
-| **Colaboradora** | [Cuervita](https://github.com/rezemd56-hash/Puniru-MD.git) |
+| **Lead Dev** | [Klee](https://github.com/kevinreyes-garcia-rgb/) |
+| **Colaboradora** | [Cuervita](https://github.com/rezemd56-hash/) |
 
 ---
 
