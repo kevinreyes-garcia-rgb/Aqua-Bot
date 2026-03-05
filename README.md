@@ -1,4 +1,4 @@
-# 🌟 ¡Bienvenido a **Aqua-Chatbot**! 🌟
+# 💧¡Bienvenido a **Aqua-Chatbot**!💧
 
 ¡Hola! Estás ante un proyecto único desarrollado con mucha dedicación. Este es un chatbot diseñado para ser tu mano derecha en múltiples tareas, combinando utilidad, descargas y creatividad visual en un solo lugar.
 
@@ -11,12 +11,11 @@
 
 > [!IMPORTANT]
 > **Estado del Proyecto:** 🛠️ En proceso de desarrollo (Beta). Estamos trabajando duro para añadir más funciones cada día.
-> [!IMPORTANT]
 > **Dato Inportante:** Este ChatBot tiene contenido NSFW usa el chatbot con cuidado y fuera de alcanse de menores. 
 
 ---
 
-## ✨ ¿Qué hace especial a este Chatbot?
+## 💧¿Qué hace especial a este Chatbot?
 
 A diferencia de otros sistemas, este chatbot se enfoca en la ejecución directa de funciones y comandos sin depender de una IA convencional, lo que lo hace **rápido, ligero y directo**.
 
@@ -32,7 +31,7 @@ A diferencia de otros sistemas, este chatbot se enfoca en la ejecución directa 
 
 Este proyecto es el resultado del trabajo en equipo y la pasión de:
 
-| ✨ Rol | 👤 Desarrollador |
+|💧Rol | 👤 Desarrollador |
 | :--- | :--- |
 | **Lead Dev** | [Klee](https://github.com/kevinreyes-garcia-rgb/) |
 | **Colaboradora** | [Cuervita](https://github.com/rezemd56-hash/) |
